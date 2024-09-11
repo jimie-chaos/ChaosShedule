@@ -1,4 +1,4 @@
-package com.zoujunshi.chaosshedule
+package com.zoujunshi.chaosSchedule
 
 import org.junit.Test
 

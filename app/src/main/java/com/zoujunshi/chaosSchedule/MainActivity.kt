@@ -1,4 +1,4 @@
-package com.zoujunshi.chaosshedule
+package com.zoujunshi.chaosSchedule
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -11,14 +11,14 @@ import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
-import com.zoujunshi.chaosshedule.ui.theme.ChaosSheduleTheme
+import com.zoujunshi.chaosSchedule.ui.theme.ChaosScheduleTheme
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         enableEdgeToEdge()
         setContent {
-            ChaosSheduleTheme {
+            ChaosScheduleTheme {
                 Scaffold(modifier = Modifier.fillMaxSize()) { innerPadding ->
                     Greeting(
                         name = "Android",
@@ -41,7 +41,7 @@ fun Greeting(name: String, modifier: Modifier = Modifier) {
 @Preview(showBackground = true)
 @Composable
 fun GreetingPreview() {
-    ChaosSheduleTheme {
+    ChaosScheduleTheme {
         Greeting("Android")
     }
 }

@@ -1,4 +1,4 @@
-package com.zoujunshi.chaosshedule.ui.theme
+package com.zoujunshi.chaosSchedule.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

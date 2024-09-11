@@ -4,13 +4,13 @@ plugins {
 }
 
 android {
-    namespace = "com.zoujunshi.chaosshedule"
-    compileSdk = 34
+    namespace = "com.zoujunshi.chaosschedule"
+    compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.zoujunshi.chaosshedule"
+        applicationId = "com.zoujunshi.chaosschedule"
         minSdk = 31
-        targetSdk = 34
+        targetSdk = 35
         versionCode = 1
         versionName = "1.0"
 
