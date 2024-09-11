@@ -1,4 +1,12 @@
-## 进度
+## 发现和请求帮助
+
+### 发现-discover
+backup_rules.xml
+data_extraction_rules.xml
+这两个文件似乎是用来备份的？
+two file maybe can backup data?
+
+## 进度-progress
 
 点击此处查看[项目任务表](https://github.com/users/jimie-chaos/projects/1/views/1)
 
